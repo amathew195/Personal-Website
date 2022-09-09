@@ -1,0 +1,39 @@
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+}
+
+.navbar-nav {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2 {
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 4em;
+}
+
+.home img {
+    margin: 20% 20%;
+    max-height: 500px;
+}
+
+/* ABOUT ME PAGE  */
+
+.about-me {
+    font-family: 'Roboto', sans-serif;
+}
+
+.about-me .normal {
+    font-weight: 400;
+}
+
+.about-me .light {
+    font-weight: 100;
+}
+
+.about-me img {
+    margin: 20% 0;
+    width: 80%;
+}
